@@ -1,7 +1,10 @@
-# full-stack-template part 1: Project Set Up & Database
+# FullStack Template Part 1: Project Set Up & Database
 Fullstack FastAPI Template Project 
 
-Congratulations, you've now set up a fastAPI project, modelled your project's entities, connected your project's database, and populated your project's entity tables as well as an admin user.
+To Run the project, Create a new interpreter or environment and select Virtualenv (venv) and your preferred Python version (3.8+). Install the dependencies in requirements.txt.
+Use the following command to run the app.
+
+`uvicorn main:app --reload`
 
 Part 2 of this tutorial, focuses on User Authentication and API endpoints thus completing the Backend portion of the Appointment Manager App.
 
