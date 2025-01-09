@@ -1,7 +1,7 @@
 # FullStack Template Part 1: Project Set Up & Database
 Fullstack FastAPI Template Project 
 
-To Run the project, Create a new interpreter or environment and select Virtualenv (venv) and your preferred Python version (3.8+). Install the dependencies in requirements.txt.
+To Run the project, create a new interpreter or environment and select Virtualenv (venv) and your preferred Python version (3.8+). Install the dependencies in requirements.txt.
 Use the following command to run the app.
 
 `uvicorn main:app --reload`
