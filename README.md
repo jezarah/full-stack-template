@@ -17,8 +17,8 @@ This repo corresponds to a [Tutorial](https://jezziecodes.com/blog-posts/fullsta
 
     # First Admin User
    FIRST_ADMIN_EMAIL=admin@template.com
-    FIRST_ADMIN_NAME=admin
-    FIRST_ADMIN_PASSWORD=password
+   FIRST_ADMIN_NAME=admin
+   FIRST_ADMIN_PASSWORD=password
    ```
 4. Run the following alembic command.
    ### `alembic upgrade head`
