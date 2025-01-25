@@ -11,14 +11,14 @@ This repo corresponds to a [Tutorial](https://jezziecodes.com/blog-posts/fullsta
    # Postgres
    POSTGRES_SERVER=localhost
    POSTGRES_PORT=5432
-   POSTGRES_DB=demo2
+   POSTGRES_DB=yourdb
    POSTGRES_USER=postgres
-   POSTGRES_PASSWORD=postgres
+   POSTGRES_PASSWORD=changethis
 
     # First Admin User
    FIRST_ADMIN_EMAIL=admin@template.com
    FIRST_ADMIN_NAME=admin
-   FIRST_ADMIN_PASSWORD=password
+   FIRST_ADMIN_PASSWORD=changethis
    ```
 4. Run the following alembic command.
    ### `alembic upgrade head`
